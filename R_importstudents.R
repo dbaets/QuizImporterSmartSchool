@@ -32,7 +32,9 @@ t_selected <- t_bind %>%
   select(NAAM, KLAS, score) %>% 
   filter(KLAS == klas)
 
+# write result to output file
 write.xlsx(x = t_selected,file = paste0("output/",klas,"testscore_smartschool.xlsx"))
 
+rm(t_bind,t_score,t_selected)
 
 
