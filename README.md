@@ -1,4 +1,4 @@
-# QuizImporterSmartSchool
+# Quiz Importer SmartSchool
 
 This little bit of code makes it easy to import the results from students who submitted a task on Smartschool to a general Excel format with a list of all the students.
 This script made use of the tidyverse suite and readxl toghetter with openxlsx and was only put togheter for specific needs and is not robust in any way. If needed I can still make it more robust.
