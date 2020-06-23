@@ -13,5 +13,5 @@ The last folder you need to create is the folder called **output**. This folder 
 
 ## Script usage
 * When downloading the student scores from Smartschool place the *score.csv* file in the **input** folder.
-* Before running the script adjust the klasID in the *klas* variable and your good to go.
+* Before running the script adjust the klasID in the *klas* variable and you are good to go.
 * Run the script and use the output as needed.
